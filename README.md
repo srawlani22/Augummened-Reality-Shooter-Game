@@ -6,7 +6,7 @@ Try out making this AR game, it was refrenced from Mathew Hallberg's youtube cha
 down the lane.
 
 In this game, The assests that I used were abstracted from a free 3dmodel website and I couldn't find that website now since I made this 
-game almost two years ago and apologies for posting it late on git.
+game almost two years ago and apologies for posting it late on git. The game can also be implemented on an Android/IOS device. I will strongly recommened using Android for beginners in order to understand the concepts.
 
 Check out this video below to see how the game looks:
 
